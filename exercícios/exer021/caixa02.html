@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grouping Tags</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: rgb(196, 219, 253);
+            margin: 0px;
+        }
+        header {
+            background-color: white;
+            padding: 10px;
+            margin: 10px;
+        }
+        main {
+            background-color: white;
+            padding: 10px;
+            margin: 10px;
+            border-radius: 0px 20px 0px 20px;
+            box-shadow: 3px 3px 6px rgba(53, 56, 85, 0.404);
+        }
+        nav{
+            background-color: rgb(128, 154, 204);
+           box-shadow: 2px 2px 4px 1px rgba(54, 65, 82, 0.445);
+        }
+        nav > a {
+            text-decoration: none;
+            color: white;
+            font-weight: bold;
+            margin-right: 30px;
+        }
+        nav > a:hover {
+            text-decoration: underline;
+            color: rgb(151, 213, 255);
+        }
+        article {
+            background-color: rgb(159, 191, 255);
+            padding: 5px;
+        }
+        article > aside {
+            background-color: rgb(128, 154, 204);
+        }
+        footer {
+            background-color: black;
+            color: white;
+            text-align: center;
+            padding: 5px;
+            margin: 0px;
+        }
+        div#bola {
+            height: 100px;
+            width: 100px;
+            margin: 10px;
+            border-radius: 50%;
+            background-color: white;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Meu Site</h1>
+        <nav>
+            <a href="#">link</a>
+            <a href="#">link</a>
+            <a href="#">link</a>
+            <a href="#">link</a>
+            <a href="#">link</a>
+        </nav>
+    </header>
+    <main>
+        <section id="assuntos">
+            <p>Esportes Assuntos</p>
+        </section>
+        <section id="noticias">
+            <article>
+                <h2>Noticia sobre o Brasil</h2>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Pariatur est perferendis nulla asperiores libero vel laudantium rerum, laboriosam veritatis quaerat reiciendis, modi iste. Ad, alias officia? Fugit ut vel quisquam!</p>
+                <aside>
+                    <p>Artigo produzido por Ysabella Santos</p>
+                </aside>
+            </article>
+            <article>
+
+            </article>
+
+        </section>
+    </main>
+    <footer>
+        Desenvolvido pelo CursoemVideo Ysabella
+    </footer>
+    <div id="bola"></div>
+</body>
+</html>
