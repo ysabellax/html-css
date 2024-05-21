@@ -7,4 +7,5 @@
     <li type="circle"> Desafio 01 - <a href="https://ysabellax.github.io/html-css/desafios/desafio01/index.html">Desafio das Mensagens</a>
     <li type="circle"> Desafio 02 - <a href="https://ysabellax.github.io/html-css/desafios/desafio02/index.html">Desafio das Imagens</a>
     <li type="circle"> Desafio 03 - <a href="https://ysabellax.github.io/html-css/desafios/desafio03/index.html">Desafio do Mapa</a>
+    <li> Desafio 04 - <a href="https://ysabellax.github.io/html-css/desafios/desafio04/index.html">Meus Emojis Preferidos</a>
  </ol>
