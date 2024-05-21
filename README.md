@@ -1,8 +1,8 @@
-# html-css
- Curso de HTML5 e CSS3 do Curso em Video
-
+# CursoemVídeo - html-css
+ 
  Repositório de todos os desafios feitos no curso!
-
+ 
+# Desafios Resolvidos
  <ul>
     <li type="circle"> Desafio 01 - <a href="https://ysabellax.github.io/html-css/desafios/desafio01/index.html">Desafio das Mensagens</a>
     <li type="circle"> Desafio 02 - <a href="https://ysabellax.github.io/html-css/desafios/desafio02/index.html">Desafio das Imagens</a>
