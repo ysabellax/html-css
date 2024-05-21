@@ -8,6 +8,6 @@
     <li type="circle"> Desafio 02 - <a href="https://ysabellax.github.io/html-css/desafios/desafio02/index.html">Desafio das Imagens</a>
     <li type="circle"> Desafio 03 - <a href="https://ysabellax.github.io/html-css/desafios/desafio03/index.html">Desafio do Mapa</a>
     <li type="circle"> Desafio 04 - <a href="https://ysabellax.github.io/html-css/desafios/desafio04/index.html">Meus Emojis Preferidos</a>
-    <li type="circle"> Desafio 05 - <a href="https://ysabellax.github.io/html-css/desafios/desafio04/index.html">Minhas Redes Sociais</a>
-    <li type="circle"> Desafio 06 - <a href="https://ysabellax.github.io/html-css/desafios/desafio04/index.html">Tags em HTML</a>
+    <li type="circle"> Desafio 05 - <a href="https://ysabellax.github.io/html-css/desafios/desafio05/index.html">Minhas Redes Sociais</a>
+    <li type="circle"> Desafio 06 - <a href="https://ysabellax.github.io/html-css/desafios/desafio06/index.html">Tags em HTML</a>
  </ol>
