@@ -14,5 +14,6 @@
     <li type="circle"> Desafio 09 - <a href="https://ysabellax.github.io/html-css/desafios/desafio09/index.html">Vídeos legais para assistir</a>
     <li type="circle"> Desafio 10 - <a href="https://ysabellax.github.io/html-css/desafios/desafio10/index.html">Projeto Android</a>
     <li type="circle"> Desafio 11 - <a href="https://ysabellax.github.io/html-css/desafios/desafio11/index.html">Desafio do Astronauta</a>
-
+    <li type="circle"> Desafio 12 - <a href="https://ysabellax.github.io/html-css/desafios/desafio11/index.html">Cordel Moderno</a>
+    <li type="circle"> Desafio 13 - Expansão de Tabelas - <a href="https://ysabellax.github.io/html-css/desafios/desafio13/parte01.html">Parte 1</a> / <a href="https://ysabellax.github.io/html-css/desafios/desafio13/parte02.html">Parte 2</a>
  </ol>
