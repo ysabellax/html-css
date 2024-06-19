@@ -17,4 +17,5 @@
     <li type="circle"> Desafio 12 - <a href="https://ysabellax.github.io/html-css/desafios/desafio12/index.html">Cordel Moderno</a>
     <li type="circle"> Desafio 13 - Expansão de Tabelas - <a href="https://ysabellax.github.io/html-css/desafios/desafio13/parte01.html">Parte 1</a> / <a href="https://ysabellax.github.io/html-css/desafios/desafio13/parte02.html">Parte 2</a>
     <li type="circle"> Desafio 14 - <a href="https://ysabellax.github.io/html-css/desafios/desafio14/index.html">Tabela de Notas</a>
+    <li type="circle"> Desafio - Redes Sociais <a href="https://ysabellax.github.io/projeto-social/index.html">Redes Sociais</a>
  </ul>
