@@ -1,6 +1,6 @@
 # CursoemVídeo - html-css
  
- Repositório de todos os desafios feitos no curso!
+ Todos os desafios desenvolvidos no curso!
  
 # Desafios Resolvidos
  <ul>
